@@ -5,15 +5,7 @@ The Horus Heresy starts with three/four books that occur mostly in sequence and 
 
 HH spawns from a single storyline, which cascades into 14 different storylines involving 23 major factions spanning approximately 3 decades. All of these stories and factions eventually converge to the final, inevitable events of Horus Heresy: Siege of Terra. You can imagine this structure as being shaped like a diamond. Starts at a point, ends at a point, but the vast bulk of the area is what happens between those two points. Many of these storylines are important to understanding the plot, some of them are good stories and are worth reading on their own, some of them are honestly just kind of boring. 
 
-This document distils the 66 major HH novels into 39 books to be read in the order in which they're listed. If you read all of these, you will have a near comprehensive knowledge of all major plot points in the setting, while managing to avoid the lesser novels, anthologies, supplementary works in the series.
-
-I have organised this bulk of work into a series of storylines. These are listed sequentially, as are the books within them.
-
-Fortunately for new readers, HH does a good job of presenting four novels that you can read to back back to get shoved into the universe and familiar with how every other plotline begins. Three of these are a contiguous trilogy, and the fourth rounds out the storyline. 
-
-Once you've completed this 'intro storyline' - **The Isstvan III Storyline** you can feel free to jump from storyline to storyline if a particular story arc isn't keeping your attention. I would still recommend completing them in order, however.
-
-*Sometimes there are important books that I would still recommend you skip, why, and what you'll need to catch up on from other sources. I'll be leaving notes about such cases in Italics*
+This document distils the 66 major HH novels into 39 books to be read in the order in which they're listed. If you read all of these, you will have a near comprehensive knowledge of all major plot points in the setting, while managing to avoid the lesser novels, anthologies, supplementary works in the series. I have organised this bulk of work into a series of storylines. These are listed sequentially, as are the books within them. Fortunately for new readers, HH does a good job of presenting four novels that you can read to back back to get shoved into the universe and familiar with how every other plotline begins. Three of these are a contiguous trilogy, and the fourth rounds out the storyline. Once you've completed this 'intro storyline' - **The Isstvan III Storyline** you can feel free to jump from storyline to storyline if a particular story arc isn't keeping your attention. I would still recommend completing these in order, however.
 
 
 
@@ -33,8 +25,6 @@ Once you've completed this 'intro storyline' - **The Isstvan III Storyline** you
 
 5) Fulgrim: Introduces Primarch Fulgrim, the Emperor's Children, and the insidious nature of Chaos
 
-  *There are 5 short stories that cover this storyline but just read Fulgrim and you're good. You can always come back to them if you find yourself compelled to*
-
 
 
 ### 3 - Legion (Novel)
@@ -47,16 +37,11 @@ Once you've completed this 'intro storyline' - **The Isstvan III Storyline** you
 
 9) Mechanicus: Introduces Mars, the Mechanicus, and techno-mythological nature of the Emperor and Imperium of Man
 
-  *There are 6 short stories that cover this storyline, all are optional*
-
 
 
 ### 5 - The Battle of Phall Storyline
 
 22) The Crimson Fist: Introduces Primarch Rogal Dorn, Primarch Perturabo, the Imperial Fists, and the Iron Warriors
-
-  *There is 1 short story that covers this storyline, it's optional*
-
 
 
 ### 6 - The Sack of Propsero Storyline
@@ -79,8 +64,6 @@ Once you've completed this 'intro storyline' - **The Isstvan III Storyline** you
 
 24) Betrayer: Continues the storyline
 
-  *There are 2 major novels, an audio production, two novellas, and 13 short stories which take place within the Shadow Crusade Storyline. It's a cool storyline but none of them are mandatory*
-
 
 
 ### 8 - The Imperium Secundus Storyline
@@ -93,8 +76,6 @@ Once you've completed this 'intro storyline' - **The Isstvan III Storyline** you
 
 46) Ruinstorm: Concludes the Storyline
 
-  *There's a major novel I've excluded here: Angels of Caliban. Angels of Caliban and anything the Dark Angels touch becomes painfully, shockingly boring. Otherwise, this storyline includes 9 short stories and an audio production you can explore if you want*
-
 
 
 ### 9 - Meanwhile on Terra Storyline
@@ -102,8 +83,6 @@ Once you've completed this 'intro storyline' - **The Isstvan III Storyline** you
 39) Praetorian of Dorn: Prerequisite to storyline
 
 41) Master of Mankind: Starts the storyline
-
-  *At least 4 short stories are relevant to this storyline*
 
 
 
