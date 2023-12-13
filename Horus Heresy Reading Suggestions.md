@@ -1,4 +1,5 @@
-## The Ultimate Guide to the Horace Heresy
+## The Ultimate Horace Heracy Reading Order
+
 ### Preface
 
 The Horus Heresy starts with a three/four book storyline designed as an engaging, friendly jumping off point for the saga. Many will argue that once you've read those you have a sufficient understanding of The Empire of Man and the seminal events of the Horus Heresy to explore the HH novels in any order you see fit. That approach works well if you're already somewhat invested in the setting, like much of the intended audience of the HH is. If you have already favourite players and factions you can go and see what they're up to and follow leads from one storyline to another. For a beginner who isn't familiar with the setting I would recommend a more measured approach.
