@@ -11,19 +11,19 @@ This document distils the 66 major HH novels into the more important 39 of the b
 
 ### 1 - The Isstvan III Storyline
 
-1) **Horus Rising:** A very good book, EXCELLENT introduction to the setting
+1) Horus Rising 
 
-2) **False Gods:** A good book, which continues Horus Rising
+2) False Gods
 
-3) **Galaxy in Flames:** An ok book, which continues False Gods
+3) Galaxy in Flames
 
-4) **Flight of the Eisenstein:** A good book, though a slow burn, which rounds out the opening chronology of HH
+4) Flight of the Eisenstein:
 
 
 
 ### 2 - The Isstvan V Dropsite Massacre Storyline
 
-5) Fulgrim: Introduces Primarch Fulgrim, the Emperor's Children, and the insidious nature of Chaos
+5) Fulgrim
 
 
 
@@ -131,9 +131,3 @@ This document distils the 66 major HH novels into the more important 39 of the b
 67) The End and the Death: Volume II
 
 68) The End and the Death: Volume III
-
-
-
-
-
-
