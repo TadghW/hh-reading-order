@@ -2,39 +2,40 @@
 
 ### Preface
 
-The Horus Heresy starts with a three book storyline designed as the jumping off point for the saga. They're essentially mandatory but also excellent reads. There's a fourth novel that follows these events directly and builds substantially on two major characters and a main faction. Reading all four of these in order is highly recommended.
+The Horus Heresy is an amazing series. For readers who can get their teeth into the setting and themes there's near 1000 hours of worthwhile content. But how are you supposed to approach something nearly 70 full length novels in length where the release order is neither coherent or spoiler-free? The variable quality of entries presents a problem of its own. How do you make your way through such a maelstrom of content? Fear not. Here's an opinionated guide from someone who's read the entire series multiple times. Thank god I got that English lit degree.
 
-From there the storyline cascades into 14 different storylines taking place over 27 years starring 23 major factions. It gets meaningfully complicated as each of the 66 novels and ??? novellas, eBooks and audio productions prelude to, refer to, and in many cases spoil one another. 
+This document will attempt to distil the entire literary universe into a series of core  of the books and present them in a chronollogically correct and spoiler-free reading order. If you follow this list you'll have a near comprehensive knowledge of all the major plot points in the setting, while not having to push through the misses, lesser novels, anthologies, supplementary works of the series. 
 
-Topologically, aech of these plotlines resolve to the Siege of Terra. Imagine the structure of this saga as something like a diamond. Starts at a point, ends at a point, but greatest number of these co-occurring, interrelated plotlines are between those two points. 
+For the benefit of those who find themselves bored by particular events and factions I've split my recommendations into the contiguous storylines that I feel make up the series. If you have strong preferences on what and what not to read you can skip entire storylines, but it's probably a bad idea to read the storylines themselves out of order or skip novels within them. There are major novels that won't fit into the storyline structure, as well as all of the anthologies.
 
-Many of these storylines are major contributors key parts of the plot, some of them are minor contributors, some of them are worth reading for the sake of being excellent stories and fleshing out characters, factions, and the wider universe, and there's a decent argument to be made that some of them are better skipped. 
+If you're about to undertake this journey, good luck. I hope you enjoy this one of a kind series as much as I do.
 
-This document attempts to distil the 66 major novels into the more important 39 of the books and present them in a chronollogically correct and spoiler-free reading order. If you read all of these, you should have a near comprehensive knowledge of all the major plot points in the setting, while not having to push through the misses, lesser novels, anthologies, supplementary works in the series. I've organised this document into relatively distinct storylines. If multiple books are listed under one storyline, definitely read those in the order listed. If you have strong preferences on what and what not to read, by all means approach the storylines in your own order, but it is important to read the books that constitute a storyline in the correct order. 
-
-This list is my suggestion of the order in which you should approach the saga. The number of the left is the order I suggest. The (Book Number) is the order in which they were released (which does not represent a suggested order from the black library, often the order of release is actually quite a poor order to follow)
-
-Good luck. I hope you enjoy them as much as I do :)
+Shout out to r/warhammer, Arbiter Ian, warhammer wiki, lexicanum, and Nico, Eloniel and co. of the Spoiler Free Reading Order graph for validation, sanity checking, and giving me a place to engage with the experiences of others.  
 
 
 ### 1 - The Isstvan III Betrayal Storyline
 
-1 - Horus Rising (Book 1) 
+1 - Horus Rising - Dan Abnett - Book 1
 
-2 - False Gods (Book 2)
+It's a great introduction to the setting. The vast majority of characters both Human and Astartesian are characterful and engaging, Abnett's has a wonderful ability to write in a way that evokes imagery without stuffing his prose full of irrelevent descriptors. Full of foreboding but never detatched from the present - I really like Horus Rising and most people do. 8/10. Essential reading. 
 
-3 - Galaxy in Flames (Book 3)
+2 - False Gods - Graham McNeill - Book 2
 
-4 - Flight of the Eisenstein (Book 4)
+False Gods is essential reading and also an engaging book. I'm struggling to describe this one because for all of the memorable and gripping moments it subjects the reader to there's also an aspect of boredom and I get the feeling that McNeill really connected with some of these plot points but not all of them. I have read it three times, but it's not objectively excellent. 6/10
 
-These four books are the essential introduction into the Horus Heresy, Istvan III is the location of all of its first acts and I would strongly recommend starting here.
+3 - Galaxy in Flames - Ben Counter - Book 3
 
+The first half of Galaxy in Flames is a bit of a mess. There are a LOT of characters in a way that's unavoidable but unfortunate. Fatigue set in for me on the first two reads as I struggled to keep up with who's who and come to terms with a relatively rapid change in tone amongst the Luna Wolves. But then it really comes together. I'm not sure how hard the ending hits on first read, my partner says it hits pretty hard. But understanding it in full, I get goosebumps. Either way, you can't really avoid it, it is plot essential, and I really do think the conclusion and all it sets up make it deserving of 7.5/10
+
+4 - The Flight of the Eisenstein (Book 4)
+
+The Flight of the Eisenstein is a solid book. Honestly, the warsinger plot is a stupid concession to Warhammer 40k's background in the 80s. Grulgor is a bore of a character. Garro takes on immense character over the course of the series, but doesn't necesasrily have that character as you see him in this book. It's very effectively salvaged by the injection of Keeler, Sindermann, Oliton, and Qruze into the plot though. In fact, the second half of the book in general is pretty engaging. First real warp sequence of the series. Also concludes in a manner that's genuinely exciting and perfectly timed in the context of the novels around it. It touches on some really interesting themology towards the end as well. 7/10.
 
 ### 2 - The Isstvan V Dropsite Massacre Storyline
 
 5 - Fulgrim (Book 5)
 
-Where Isstvan III is the first site of rebellion Isstvan V is where the galaxy is truly wrent assunder. It's an obvious follow on, but also introduces several important concepts and characters. 
+Oh god. This novel. Where to begin.
 
 ### 3 - Legion (Single Novel)
 
