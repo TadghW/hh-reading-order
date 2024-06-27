@@ -25,23 +25,23 @@ False Gods is essential reading and also an engaging book. I'm struggling to des
 
 3 - Galaxy in Flames - Ben Counter - Book 3
 
-The first half of Galaxy in Flames is a bit of a mess. There are a LOT of characters in a way that's unavoidable but unfortunate. Fatigue set in for me on the first two reads as I struggled to keep up with who's who and come to terms with a relatively rapid change in tone amongst the Luna Wolves. But then it really comes together. I'm not sure how hard the ending hits on first read, my partner says it hits pretty hard. But understanding it in full, I get goosebumps. Either way, you can't really avoid it, it is plot essential, and I really do think the conclusion and all it sets up make it deserving of 7.5/10
+The first half of Galaxy in Flames is something of a mess. There are a _lot_ of characters. They're essential to the plot, but they make the book hard to follow and easy to glaze over. Fatigue set in for me on the first two reads as I struggled to keep up with the cast and come to terms with a relatively rapid change in tone amongst the Luna Wolves. I'm not sure how hard the ending hits on first read, my partner says it hits pretty hard. But jesus when you're invested it hits hard. It's an epic and well fleshed out conlcusion to the first three books that has profound implications for the rest. It's a genuine nail-biter. It gets me going. Goosebumps. Shadow boxing. You name it. Whether it hits that hard for you or not you can't really avoid it, it's plot essential, and I really do think the exceptionally strong conclusion drags it into the territory of another 8/10
 
-4 - The Flight of the Eisenstein (Book 4)
+4 - The Flight of the Eisenstein - James Swallow - Book 4
 
 The Flight of the Eisenstein is a solid book. Honestly, the warsinger plot is a stupid concession to Warhammer 40k's background in the 80s. Grulgor is a bore of a character. Garro takes on immense character over the course of the series, but doesn't necesasrily have that character as you see him in this book. It's very effectively salvaged by the injection of Keeler, Sindermann, Oliton, and Qruze into the plot though. In fact, the second half of the book in general is pretty engaging. First real warp sequence of the series. Also concludes in a manner that's genuinely exciting and perfectly timed in the context of the novels around it. It touches on some really interesting themology towards the end as well. 7/10.
 
 ### 2 - The Isstvan V Dropsite Massacre Storyline
 
-5 - Fulgrim (Book 5)
+5 - Fulgrim - Graham McNeill - Book 5
 
-Oh god. This novel. Where to begin.
+Guady, camp, jolly, and eventually horrifying - this novel is one of the best in the series if you can forgive McNeill taking a regency melodrama apporach to human relations. Combining the influence of _she who thirsts_ with the human, astarte, and primarch inhabitants of The Pride of the Emperor with the naturally flamboyant, excessive, and dramatic nature of the Emperor's Children is a brilliant demonstration of the insidious influence of the warp on the minds of men. McNeill loves his rememberencers, and you can feel it. Fabius is a delightful villain. It's a real shame that we don't see more of Ferrus Manus, who comes across adorably in this depiction. There's a lot to like. Unfortunately, a large portion of the beginning of the novel is consumed by horrifically boring combat sequences, and sometimes Fulgrim comes across as 2-dimensional unengaging. Still, if you like a psychodrama it's an 8/10.
 
 ### 3 - Legion (Single Novel)
 
 6 - Legion (Book 7) 
 
-Here's our first example of readnig the books in a different order than they were published. Immediately following Book 5, Fulgrim, in the release order was Book 6, Descent of Angels. The Dark Angels storyline genuinely bores me to tears. I hate their legion character and I have no interest in their history or how they're written. Most people I've spoken to strongly concur. We'll be skipping all novels in their storyline.
+Here's our first example of reading the books in a different order than they were published. Immediately following Book 5, Fulgrim, in the release order was Book 6, Descent of Angels. The Dark Angels storyline genuinely bores me to tears. I hate their legion character and I have no interest in their history or how they're written. Most people I've spoken to strongly concur. We'll be skipping all novels in their storyline.
 
 Legion on the other hand, is a good and interesting book that introduces the (mostly) genetically standard human military forces of the empire as well as various xenos species, an interesting space marine legion, and a very important main character.
 
