@@ -21,7 +21,7 @@ It's a great introduction to the setting. The vast majority of characters both H
 
 2 - False Gods - Graham McNeill - Book 2
 
-False Gods is essential reading and also an engaging book. I'm struggling to describe this one because for all of the memorable and gripping moments it subjects the reader to there's also an aspect of boredom and I get the feeling that McNeill really connected with some of these plot points but not all of them. I have read it three times, but it's not objectively excellent. 6/10
+False Gods is essential reading and also an moderately engaging book. For each of memorable moments in False Gods you are somewhat subjected to a degree of astartesian boredom through McNeill's investigation into the lodges and Horus's sequences. At the same time, there are some very engaging characters in the mix. Lokan and Ignace Karkasy bring some real soul to the novel and ground the reader back to the over-arching narratives. McNeill obviously connects with some these characters and themes more than others. I have read it three times, but it's not objectively excellent. 7/10
 
 3 - Galaxy in Flames - Ben Counter - Book 3
 
@@ -29,13 +29,13 @@ The first half of Galaxy in Flames is something of a mess. There are a _lot_ of 
 
 4 - The Flight of the Eisenstein - James Swallow - Book 4
 
-The Flight of the Eisenstein is a solid book. Honestly, the warsinger plot is a stupid concession to Warhammer 40k's background in the 80s. Grulgor is a bore of a character. Garro takes on immense character over the course of the series, but doesn't necesasrily have that character as you see him in this book. It's very effectively salvaged by the injection of Keeler, Sindermann, Oliton, and Qruze into the plot though. In fact, the second half of the book in general is pretty engaging. First real warp sequence of the series. Also concludes in a manner that's genuinely exciting and perfectly timed in the context of the novels around it. It touches on some really interesting themology towards the end as well. 7/10.
+The Flight of the Eisenstein is a solid book. Honestly, the warsinger plot is a stupid concession to Warhammer 40k's background in the 80s, and Grulgor is a bore of a character. Garro takes on immense character over the course of the series, but doesn't necesasrily have that character as you see him in this book. He's pleasant, enjoyable, but not powerful. My admonitions aside, the the injection of Keeler, Sindermann, Oliton, and Qruze into the plot and the power of the series' real warp sequence of the series are powerful and engaging tools. I really enjoyed the 'flight' sequence, so to speak. This novel also concludes in a manner that's genuinely exciting and perfectly timed in the context of the novels around it. I really enjoy this novel. 7.5/10.
 
 ### 2 - The Isstvan V Dropsite Massacre Storyline
 
 5 - Fulgrim - Graham McNeill - Book 5
 
-Guady, camp, jolly, and eventually horrifying - this novel is one of the best in the series if you can forgive McNeill taking a regency melodrama apporach to human relations. Combining the influence of _she who thirsts_ with the human, astarte, and primarch inhabitants of The Pride of the Emperor with the naturally flamboyant, excessive, and dramatic nature of the Emperor's Children is a brilliant demonstration of the insidious influence of the warp on the minds of men. McNeill loves his rememberencers, and you can feel it. Fabius is a delightful villain. It's a real shame that we don't see more of Ferrus Manus, who comes across adorably in this depiction. There's a lot to like. Unfortunately, a large portion of the beginning of the novel is consumed by horrifically boring combat sequences, and sometimes Fulgrim comes across as 2-dimensional unengaging. Still, if you like a psychodrama it's an 8/10.
+Guady, camp, jolly, and eventually horrifying - this novel is one of the best in the series if you can forgive McNeill taking a regency melodrama apporach to human relations. Combining the influence of _she who thirsts_ with the human, astarte, and primarch inhabitants of The Pride of the Emperor with the naturally flamboyant, excessive, and dramatic nature of the Emperor's Children is a brilliant demonstration of the insidious influence of the warp on the minds of men. McNeill loves his rememberencers, and you can feel it. Fabius and Lucius are a delightful villains. It's a real shame that we don't see more of Ferrus Manus, who comes across adorably in this depiction. There's a lot to like. Unfortunately, a large portion of the beginning of the novel is consumed by horrifically boring combat sequences and some repetition, and sometimes Fulgrim comes across as 2-dimensional, weak, and unengaging. Still, if you like a psychodrama it's an 7/10.
 
 ### 3 - Legion (Single Novel)
 
