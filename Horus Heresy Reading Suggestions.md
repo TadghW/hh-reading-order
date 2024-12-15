@@ -2,58 +2,78 @@
 
 ### Preface
 
-The Horus Heresy is an amazing series. For readers who can get their teeth into the setting and themes there's near 1000 hours of worthwhile content. But how are you supposed to approach something nearly 70 full length novels in length where the release order is neither coherent or spoiler-free? The variable quality of entries presents a problem of its own. How do you make your way through such a maelstrom of content? Fear not. Here's an opinionated guide from someone who's read the entire series multiple times. Thank god I got that English lit degree.
+The Horus Heresy is an experience unlike any other. For readers who can get their teeth into the setting, narrative and themes there's near 1000 hours of content. Not all of it is good - but the average quality is high enough that there's a dedicated audience of fans who consume and reconsume the series just to marvel at the depth and bredth of story covered over the hundreds of tales contained within. Producing 70 full length novels on a single coherent story and universe, not counting the numerous forms of complimentary media, was a really ambitious undertaking - while I do believe that most fans would argue that Games Workshop were more successful than they have any right to be, entrants into the series should be warned that HH's timeline is scattered and the order in which its content was released does not always follow in the order in which events occur. 
 
-This document will attempt to distil the entire literary universe into a series of core  of the books and present them in a chronollogically correct and spoiler-free reading order. If you follow this list you'll have a near comprehensive knowledge of all the major plot points in the setting, while not having to push through the misses, lesser novels, anthologies, supplementary works of the series. 
+This presents a unique challenge to newcomers and rereaders alike, you have to choose how you want to order the series to consume in it a structured manner. Much like ordering the songs in an album, there's not necessarily a right way to do this. Most (I assume) would agree that following a chronological order of events helps make sense of the universe's timeline. But then, multiple storylines are occurring simultaneously. You can read the storylines in a coherent manner and map them on a timeline, but events that happen in the middle of one storyline do effect the core flow of other storylines. Some characters hop between storylines. Games Workshop, essentially, have written a concurrency problem. 
 
-For the benefit of those who find themselves bored by particular events and factions I've split my recommendations into the contiguous storylines that I feel make up the series. If you have strong preferences on what and what not to read you can skip entire storylines, but it's probably a bad idea to read the storylines themselves out of order or skip novels within them. There are major novels that won't fit into the storyline structure, as well as all of the anthologies.
+Less prosaic (if you'll excuse the pun) problems emerge from this organisation as well. Yes the appeal of the series is in large part reconstructing the astounding scale of its narrative - but there's more to storytelling than listing events in the order that they occur. If one was to follow a strictly narrative-chronological reading order they may find swapping between the themes central to each storyline dischordant, or that their attachment to characters suffer from hopping in and out of their context. Perhaps a more dedicated author could construct a reading order where one swaps book chapter by chapter for an optimal reading experience. Confounding our audit further is the mixed quality of the novels we seek to order. Some entries into the set have interesting consequences for the narrative but aren't considered very good books. From experience, slogging through a lesser entry in the series disrupts the core appeal of the series - a narrative flow that easily lasts months. That's not desireable either.    
 
-If you're about to undertake this journey, good luck. I hope you enjoy this one of a kind series as much as I do.
+No attempt to construct a reading order for the Horus Heresy will ever be definitive. There's a graph drafted by the community and published by games workshop that you can use to plot your own course if you're interested. I am by no means the final, or even a particularly good authority on this series. But I would be delighted to see more people share in this confusing, complex, and wonderful experience. Reading through this series a couple of times has been a special, engaging, and totally unique experience that I would strongly recommend to anyone with an interest. In the hope that I can convince someone to give it a go I've compiled my own recommendation for a path through the series that you might find to your taste. In many places it follows release order, in other places it differs substantially. It is, by design, opinionated - and I will be excluding books and storylines that I don't think pass muster. 
 
-Shout out to r/warhammer, Arbiter Ian, warhammer wiki, lexicanum, and Nico, Eloniel and co. of the Spoiler Free Reading Order graph for validation, sanity checking, and giving me a place to engage with the experiences of others.  
+Just to mention so I don't have to explain later, I've been accused by friends of grading things weirdly. To set expectations, in my mind, a 9/10 must be essentially as perfect as it's possible to be. An irreplacable experience that's an instant firm recommend. Many of my favourite things pieces of media in the world are admittedly like 8.5/10 at best. I'm gonna be holding to my guns in these reviews. Anything over a 7 is recommended, anything under a 6 isn't worth your time unless you're like, a super fan, and I'll be flaming it.
 
+With regards to an outline for what the whole series looks like, Horus Heresy has some really strong content from the start but taken all together it is a slow burn. There are several interesting, worthwhile novels that just aren't that gripping when compared to later entries in the series. If you're worried because you've skipped a few books in the first 20-30 don't be. Take it at your own pace and read what you want, this is just a guide. Getting into the thick of action is worth it whatever route you take to get there. This list trends towards recommending more rather than less, but a more minimal path would also be appropriate. 
 
-### 1 - The Isstvan III Betrayal Storyline
+With those disclaimers out the way, for others opinions on the franchise, I would strongly recommend you check out the subreddit r/warhammer, youtubers Arbiter Ian and Lexicanum, the Warhammer Wiki, and the Spoiler Free Reading Order Graph. Forgive for any exclusions or errors, and please feel free to engage with this however you see fit.
+
+### The Reading Order and Why:
+
+### 1 - The Isstvan III & V Betrayal Storylines
 
 1 - Horus Rising - Dan Abnett - Book 1
 
-It's a great introduction to the setting. The vast majority of characters both Human and Astartesian are characterful and engaging, Abnett's has a wonderful ability to write in a way that evokes imagery without stuffing his prose full of irrelevent descriptors. Full of foreboding but never detatched from the present - I really like Horus Rising and most people do. 8/10. Essential reading. 
+It's a great introduction to the setting. The vast majority of characters, Human and Astartes, play their roles well. Abnett has a literary knack  for succinct but vivid description and Horus Rising is certainly sufficient enough a book to grasp your attention. Needless to say, as the first book of the series it's highly recommended that you give it a read. Most people enjoy this book, I would bet that you will too. 8/10. Essential and engaging reading. 
 
 2 - False Gods - Graham McNeill - Book 2
 
-False Gods is essential reading and also an moderately engaging book. For each of memorable moments in False Gods you are somewhat subjected to a degree of astartesian boredom through McNeill's investigation into the lodges and Horus's sequences. At the same time, there are some very engaging characters in the mix. Lokan and Ignace Karkasy bring some real soul to the novel and ground the reader back to the over-arching narratives. McNeill obviously connects with some these characters and themes more than others. I have read it three times, but it's not objectively excellent. 7/10
+False Gods is also recommended reading, in part because it's an important part of the narrative and in part because it's an engaging book. If you find yourself bored by certain sections, particularly the astartesian perspectives in this one don't give up. I felt the same, but Horus remains interesting due to his importance if nothing else, and the human cast injects some well needed soul and human interest. False gods serves as an interesting reflection on the empire as it sits just on the cusp of Heresy. I do feel that Graham McNeill connects with some these characters and themes more than others, and we should be grateful for that. 7/10. Essential and interesting reading.
 
 3 - Galaxy in Flames - Ben Counter - Book 3
 
-The first half of Galaxy in Flames is something of a mess. There are a _lot_ of characters. They're essential to the plot, but they make the book hard to follow and easy to glaze over. Fatigue set in for me on the first two reads as I struggled to keep up with the cast and come to terms with a relatively rapid change in tone amongst the Luna Wolves. I'm not sure how hard the ending hits on first read, my partner says it hits pretty hard. But jesus when you're invested it hits hard. It's an epic and well fleshed out conlcusion to the first three books that has profound implications for the rest. It's a genuine nail-biter. It gets me going. Goosebumps. Shadow boxing. You name it. Whether it hits that hard for you or not you can't really avoid it, it's plot essential, and I really do think the exceptionally strong conclusion drags it into the territory of another 8/10
+The first half of Galaxy in Flames is something of a mess. There are a _lot_ of characters, and they're pretty much all essential to the plot. Fatigue set in for me on my first two reads as I struggled to keep up with the cast and come to terms with a relatively rapid change in tone amongst the Luna Wolves. I'm not sure how hard the second half hits if you haven't won your struggle with grapsing the cast. My partner on her read through claims it hit her pretty hard, and from my second read on I found that Galaxy in Flames became an absolute gut punch in its concluding chapters. Once you get through its difficulties, Galaxy in Flames is epic in scale, well fleshed out, and absolutely central to the narrative. It's a genuine nail-biter. 8.5/10. Read it.
 
 4 - The Flight of the Eisenstein - James Swallow - Book 4
 
-The Flight of the Eisenstein is a solid book. Honestly, the warsinger plot is a stupid concession to Warhammer 40k's background in the 80s, and Grulgor is a bore of a character. Garro takes on immense character over the course of the series, but doesn't necesasrily have that character as you see him in this book. He's pleasant, enjoyable, but not powerful. My admonitions aside, the the injection of Keeler, Sindermann, Oliton, and Qruze into the plot and the power of the series' real warp sequence of the series are powerful and engaging tools. I really enjoyed the 'flight' sequence, so to speak. This novel also concludes in a manner that's genuinely exciting and perfectly timed in the context of the novels around it. I really enjoy this novel. 7.5/10.
-
-### 2 - The Isstvan V Dropsite Massacre Storyline
+The Flight of the Eisenstein isn't essential for the plot, but I enjoy it well enough that I would recommend reading it. The warsinger plot is a stupid concession to Warhammer 40k's background in the 80s, the key villain of this book is a bore of a character. The protagonist will be important later, but spends a lot of this book as a pleasant but plain character. What pulls it back into recommended reading is the sudden injection of key human cast into the plot, the series' real warp sequence and the introduction of some of the warps' implications. The "Flight" of the Flight of the Eisenstein stands out.  7.5/10. Going on the read pile
 
 5 - Fulgrim - Graham McNeill - Book 5
 
-Guady, camp, jolly, and eventually horrifying - this novel is one of the best in the series if you can forgive McNeill taking a regency melodrama apporach to human relations. Combining the influence of _she who thirsts_ with the human, astarte, and primarch inhabitants of The Pride of the Emperor with the naturally flamboyant, excessive, and dramatic nature of the Emperor's Children is a brilliant demonstration of the insidious influence of the warp on the minds of men. McNeill loves his rememberencers, and you can feel it. Fabius and Lucius are a delightful villains. It's a real shame that we don't see more of Ferrus Manus, who comes across adorably in this depiction. There's a lot to like. Unfortunately, a large portion of the beginning of the novel is consumed by horrifically boring combat sequences and some repetition, and sometimes Fulgrim comes across as 2-dimensional, weak, and unengaging. Still, if you like a psychodrama it's an 7/10.
+It's guady, camp, jolly, and eventually it's horrifying - if you can forgive McNeill's indulgence with the melodramatic human cast plot points - which are thematically justified, it's a mostly good time. Fabius and Lucius are great villains, but the astartes contribution to this book is so excessively boring that my partner actually skipped it on her read. This is a real shame because in the last third of the novel important things happen. My recommendation is to make liberal use of your free will and skip the parts you find dull. It has good bits, it has terrible bits, it has important bits. This is the first novel I'd argue that you should exercise caution with. I'll give it a 6.5/10 and encourage that you read it, but don't stress paying attention to it all.
 
 ### 3 - Legion (Single Novel)
 
-6 - Legion (Book 7) 
+6 - Legion - Dan Abnett - Book 7
 
-Here's our first example of reading the books in a different order than they were published. Immediately following Book 5, Fulgrim, in the release order was Book 6, Descent of Angels. The Dark Angels storyline genuinely bores me to tears. I hate their legion character and I have no interest in their history or how they're written. Most people I've spoken to strongly concur. We'll be skipping all novels in their storyline.
+We are now officially getting off the rails of the release order. Skip Book 6 - Descent of Angels. It's so boring that it makes we want to cry. I'm really sorry Mr.Scanlon, Dark Angels are just really boring.
 
-Legion on the other hand, is a good and interesting book that introduces the (mostly) genetically standard human military forces of the empire as well as various xenos species, an interesting space marine legion, and a very important main character.
+Anyway, Book 7, Legion, is a solid spy drama and Imperial Army novel that introduces a few important characters and concepts and a space marine legion that you will want to understand for the rest of the story later on. It hasn't been outrageously entertaining to me in any of my reads, but I haven't felt compelled to skip it either. It's a little more raunchy, a little more human, and on balance it is somewhat narratively important. I don't have much more to say because it doesn't directly belong to a key storyline other than as pertains to one character, but as a sort-of episodic novel it's worth a read. 7/10.
 
 ### 4 - The Schism of Mars Storyline
 
-6 - Mechanicum (Book 9)
+6 - Mechanicum - Book 9
 
-Book 8, Battle for the Abyss, is ok. I found it kind of filler-y and I don't think it plays an important role in the plot. It's technically the first book in an important plotline later on, but even that plotline kind of disowns it and replaces it with more important and better books covering its prelude later on. 
+We're skipping Book 8, Battle for the Abyss. It's ok. Pretty forgettable. I found it kind of filler-y and I don't think it plays an important role in the plot - it is technically the first book in an important plotline later on, but even that plotline kind of disowns it and replaces it with more important and better books later on. Weird because Ben Counter's contributions to this series trend solid. Anyway. 
 
-The 6 books you've read so far have given a nice introduction to many of the most important factions in the universe but mostly neglected one of the most important. Considered a separate but equal organ from the empire's inception, the Mechanicum have titular control over most of the empire's manufactory hubs and pieces of high-technology. They're a key player often overlooked in the conflict and I think Mechanicum does a mostly good job of introducing and motivating them. 
+I would recommend that you read Book 9, Mechanicum. The 6 books you've read so far have given a nice introduction to many of the most important factions in the universe but really neglect one of the most important. 
 
-I would have liked to have seen more Mechanicum in the series and I feel this book undersells them a little but it's an important and entertaining read and provides the cliffnotes early on.
+Considered a separate but equal organ from the empire's inception, the Mechanicum have very real control over most of the empire's manufactory hubs and engineering resources. With a separate religion and culture and laws knowing about the Mechanicum and the role they play politically will set you up well for the rest of the series. That said, Mechanicum is a weird kind of book. 
+
+The plot itself is... I find it uncompelling? Sometimes the characters don't come across amazingly either. It doesn't even, I feel, do justice to how cool the Mechanicum are. Yet, I did enjoy it on the first 2 of my 3 readthroughs. Aesthetically the Mechanicum are just.. Cool. Some of the characters are pretty engaging and I found the religious aspects of the mechanicum enticing. I should qualify all of this with the fact that I'm a huge AdMech fan so I might be glazing here but.. I would argue that if it's not a big financial burden on you it's probably worth giving it at least one read. Some people disagree but I think you should try it. I wouldn't be mad if you skipped it, but you might like it and it will help you understand the universe. 7/10. Probably read.  
+
+### 6 - The Sack of Propsero Storyline
+
+7 - A Thousand Sons - Book 12
+
+We're starting to run into a bit of a problem with the ordering of this series now. We have unavoidably moved past the events of some of A Thousand Sons, but we still need to piece together what happens in the Sack of Propsero storyline to proceed meaningfully. In order to do so we are going to skip a few books:
+
+Book 10 is an anthology with some merit but belongs much later in our order, Book 11 is another >nauseated emoji< Dark Angels book that you should ignore. 
+
+  
+
+
+
+
+
 
 ### 5 - The Shadow Crusade Storyline
 
@@ -79,6 +99,10 @@ With Betrayer read we're now free to investigate other plotlines again for a whi
 
 
 
+### 6 - Tales of Heresy
+
+Here's a really weird one. This is a Anthology of mostly poor short stories and one absolutely legendary one. Weirder yet, you don't really have to read this one right now? This is in a new category we're introducing called "read whenever". ===NOTE TO SELF: IGNORE THIS, RECOMMEND IT FOR AFTER MASTER OF MANKIND ===
+
 
 
 
@@ -87,15 +111,6 @@ With Betrayer read we're now free to investigate other plotlines again for a whi
 22) The Crimson Fist: Introduces Primarch Rogal Dorn, Primarch Perturabo, the Imperial Fists, and the Iron Warriors
 
 
-### 6 - The Sack of Propsero Storyline
-
-12) *Despite the fact that the next book on this list: Prospero Burns (Book 15) follows directly on from A Thousand Sons (Book 12), you don't need to read A Thousand Sons. There's important stuff in it, but mostly it's boring and a bit pretentious. You can read about the important bit - "Magnus's Folly" - on wh40kWiki and save the time*
-
-15) Prospero Burns: Introduces Primarch Leman Russ, the Space Wolves, the sacking of Prospero, and how Magnus gets Sort Of Murdered(tm)
-
-28) Scars: Introduces Primarch Jaghatai Khan and the White Scars
-
-36) The Path of Heaven: Concludes the storyline
 
 
 
